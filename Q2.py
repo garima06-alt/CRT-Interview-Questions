@@ -16,7 +16,7 @@ print(f"Original number: {original}")
 print(f"Reversed number: {rev}")
 
 if(original==rev):
-    print("Palindrome")
+    print(f"Palindrome : {True}")
 else: 
-    print("Not Palindrome")  
+    print(f"Not Palindrome : {False}")  
     
